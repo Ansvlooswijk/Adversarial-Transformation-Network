@@ -5,6 +5,8 @@ import os
 from tensorflow.examples.tutorials.mnist import input_data
 import matplotlib.pyplot as plt
 
+#lalalala
+
 FLAGS = tf.flags.FLAGS
 
 tf.flags.DEFINE_boolean('train', False, 'Train and save the ATN model.')
